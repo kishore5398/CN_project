@@ -1,4 +1,5 @@
 📘 README Section
+
 Packet Analyzer GUI – Real-Time Network Packet Capturing and Analysis Tool
 This project is a Python-based graphical application for capturing, analyzing, and visualizing network traffic in real-time using the power of Scapy, Tkinter, Pandas, and Matplotlib.
 
